@@ -1,0 +1,9 @@
+{
+    "root_path" : "/home/laurane/Documents/CollExtractor", 
+    "stop_words" : "./config/default.stopwords",
+    "language" : "en",
+    "n" : 10,
+    "joiner_whole_token" : "\n",
+    "sort" : "freq",
+    "method" : "token"
+}
